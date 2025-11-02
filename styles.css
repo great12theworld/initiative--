@@ -1,0 +1,36 @@
+
+        body { 
+            font-family: Arial, sans-serif; 
+            background: #181818; 
+            color: #eee; 
+            margin: 0; 
+            padding: 0; 
+        }
+        
+        header {
+            background: #222;
+            padding: 1em;
+            text-align: center;
+        }
+        main {
+            max-width: 700px;
+            margin: 2em auto;
+            background: #222;
+            padding: 2em;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px #0006;
+        }
+
+        h2{
+            color: #000000;
+            margin-top: 144px;
+        }
+        /*how did we get here*/
+        /*save me*/
+        /*im begging you*/
+        /*please.*/
+
+        
+        
+        
+        
